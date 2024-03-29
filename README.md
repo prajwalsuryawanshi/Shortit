@@ -1,3 +1,4 @@
+
 <h1> HI , this project is developed with the use of Django Framework</h1>
 Make sure you have latest version of Python install in your computer.                                                      
 <br>                                                                                                                                                                                                  
@@ -35,3 +36,5 @@ If you are using a linux machine you would have problem in Activating the virtua
 Now you can accress this project at **127.0.0.1:8000**                                                                                 
 
 (http://127.0.0.1:8000/)
+
+*some minor works are pending in this project
