@@ -11,6 +11,14 @@ To run the project clone it on your computer using the following link :- <br>
 <br>
 <p3>Activate python Vritual Environment using the command <Br> "**.\scripts\activate**" </p3>                                                                                
 ![Screenshot 2024-03-28 230414](https://github.com/prajwalsuryawanshi/Shortit/assets/152725837/51069c37-9814-4105-9279-79f3413c2861)
+<br> 
+If you are using a linux machine you would have problem in Activating the virtual environment you can try this in your terminal
+<br> 
+"**chmod u+x ./Scripts/activate**"
+
+![Screenshot from 2024-03-29 14-12-51](https://github.com/prajwalsuryawanshi/Shortit/assets/152725837/a537a483-2a37-485a-952e-cf751508f618)
+
+
 <br>
 <h2>Once you activate your python virtual Environment you are ready to run your Django server and the project!</h2>
 <p5>Open the src directory in the command line using<p5> <br> 
