@@ -1,6 +1,7 @@
 
 <h1> HI , this project is developed with the use of Django Framework</h1>
-Make sure you have latest version of Python install in your computer.                                                      
+Make sure you have latest version of Python and Django installed in your computer.                      
+to install Django just run "pip install Django"
 <br>                                                                                                                                                                                                  
 To run the project clone it on your computer using the following link :- <br>
 "git clone https://github.com/prajwalsuryawanshi/Shortit.git"<br>     
